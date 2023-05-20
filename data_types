@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Types in JavaScript</title>
+</head>
+<body>
+    <script>
+        var first_name = "Faisal";
+        var last_name = 'Zamir';
+        document.write(first_name);
+
+        var val = 19239;
+        var val1 = 1323.32;
+        document.write(val1);
+
+        var male = true;
+        var female = false;
+
+        var std = {
+            id:1323,
+            name:"Jafri"
+        };
+        var array =["Gray","pink","yello"];
+    </script>
+</body>
+</html>
